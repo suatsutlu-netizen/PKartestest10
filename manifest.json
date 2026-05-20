@@ -1,0 +1,15 @@
+{
+  "name": "Conjugaison - Étude de Langue",
+  "short_name": "Conjugaison",
+  "description": "Application pédagogique de conjugaison française CP-CM2",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF8F0",
+  "theme_color": "#E8734A",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
